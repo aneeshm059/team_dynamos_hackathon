@@ -1,0 +1,82 @@
+{
+      "id" : 1,
+      "name" : "AI and Coding Masters Course",
+      "description" : "<p>User interface design or user interface engineering is the design of user interfaces for machines and software, such as computers, home appliances, mobile devices, and other electronic devices, with the focus on maximizing usability and the user experience.</p>",
+      "modules" : [
+        {
+            "id" : 1,
+            "name" : "Digital Literacy",
+            "status" : "Completed",
+            "attendance" : 5,
+            "totalClasses" : 5,
+            "classes" : [
+                {
+                    "id" : 1,
+                    "classTitle" : "Introduction to Digital Literacy",
+                    "content" : "L61p2uyiMSo",
+                    "isAssignment" : true,
+                    "isAssignmentCompleted" : true,
+                    "assignmentCompleted" : 3,
+                    "totalAssignments" : 3,
+                    "isClassCompleted" : true,
+                    "type" : "V"
+                },
+                {
+                    "id" : 2,
+                    "classTitle" : "Digital Skills Essentials",
+                    "content" : "L61p2uyiMSo",
+                    "isAssignment" : true,
+                    "isAssignmentCompleted" : true,
+                    "assignmentCompleted" : 3,
+                    "totalAssignments" : 3,
+                    "isClassCompleted" : true,
+                    "type" : "V"
+                },
+                {
+                    "id" : 3,
+                    "classTitle" : "Navigating the Digotal World",
+                    "content" : "L61p2uyiMSo",
+                    "isAssignment" : true,
+                    "isAssignmentCompleted" : true,
+                    "assignmentCompleted" : 3,
+                    "totalAssignments" : 3,
+                    "isClassCompleted" : true,
+                    "type" : "V"
+                },
+                {
+                    "id" : 4,
+                    "classTitle" : "Digital Litaracy 101",
+                    "content" : "L61p2uyiMSo",
+                    "isAssignment" : true,
+                    "isAssignmentCompleted" : true,
+                    "assignmentCompleted" : 3,
+                    "totalAssignments" : 3,
+                    "isClassCompleted" : true,
+                    "type" : "V"
+                },
+                {
+                    "id" : 5,
+                    "classTitle" : "Mastering the Digital Landscape",
+                    "content" : "L61p2uyiMSo",
+                    "isAssignment" : false,
+                    "isAssignmentCompleted" : true,
+                    "assignmentCompleted" : 0,
+                    "totalAssignments" : 0,
+                    "isClassCompleted" : true,
+                    "type" : "V"
+                },
+                {
+                    "id" : 6,
+                    "classTitle" : "Digital SKills for the Modern Age",
+                    "content" : "L61p2uyiMSo",
+                    "isAssignment" : true,
+                    "isAssignmentCompleted" : true,
+                    "assignmentCompleted" : 4,
+                    "totalAssignments" : 4,
+                    "isClassCompleted" : true,
+                    "type" : "V"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "assessments": [
+        {
+            "id" : 1,
+            "name" : "Java Assessment",
+            "module" : "Coding",
+            "dueDate" : "December 20, 2023",
+            "status" : "Completed"
+        },
+        {
+            "id" : 2,
+            "name" : "Web Development Assessment",
+            "module" : "Web Design",
+            "dueDate" : "December 20, 2023",
+            "status" : "Not Completed"
+        }
+    ]
+}

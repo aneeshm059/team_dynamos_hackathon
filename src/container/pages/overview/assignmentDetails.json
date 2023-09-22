@@ -1,0 +1,40 @@
+{
+    "assignments" : [
+        {
+            "id" : 1,
+            "questionTitle": "Q1. Digital Literacy",
+            "qyestionDescription": "<p>What does the term digital literacy refer to?</p>",
+            "type": "MCQ",
+            "difficulty": "Easy",
+            "studentScore": 0,
+            "maxScore": 10,
+            "status": "Unsolved",
+            "solvedBy": 2,
+            "choices": ["The ability to use a typewriter", "The ability to read and write in binary code", "The ability to use digital devices and technology effectively", "The ability to repair computer hardware"]
+        },
+        {
+            "id" : 2,
+            "questionTitle": "Q2. Importance of Digital Literacy",
+            "qyestionDescription": "<p>Describe the importance of digital literacy in today's society. Provide examples of how individuals can benefit from being digitally literate and explain how it can impact their personal and professional lives. Additionally, discuss the potential challenges people may face if they lack digital literacy skills and how these challenges can be overcome.?</p>",
+            "type": "Descriptive",
+            "difficulty": "Medium",
+            "studentScore": 0,
+            "maxScore": 10,
+            "status": "Unsolved",
+            "solvedBy": 3,
+            "choices": []
+        },
+        {
+            "id" : 3,
+            "questionTitle": "Q3. Add Two Numbers",
+            "qyestionDescription": "<p>Write a programe to add two number and display the output in console</p>",
+            "type": "Coding",
+            "difficulty": "Easy",
+            "studentScore": 0,
+            "maxScore": 10,
+            "status": "Unsolved",
+            "solvedBy": 5,
+            "choices": []
+        }
+    ]
+}
